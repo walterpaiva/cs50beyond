@@ -1,0 +1,26 @@
+#image {
+        text-align: center;
+    }
+    button {
+        text-align: center;
+        color: rgb(87, 87, 87);
+        font-size: 16px;
+        background-color: pink;
+        border-block-start-width: 0px;
+    }
+    #buttons {
+        text-align: center;
+        width: 100%;
+    }
+    input {
+        margin: auto;
+        width: 550px;
+        height: 35px;
+        box-sizing: border-box;
+    }
+    #search {
+        text-align: center;
+    }
+    text:hover {
+        text-decoration: underline;
+    }
